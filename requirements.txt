@@ -1,0 +1,4 @@
+Flask>=2.3.2
+SQLAlchemy>=2.0.16
+Werkzeug>=2.3.6
+WTForms>=3.0.1
